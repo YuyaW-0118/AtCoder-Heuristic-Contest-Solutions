@@ -4,5 +4,5 @@
 - 参加結果: 未参加
 
 ## 実行結果
-![pic](./solution_gifs/AHC001_solution.png)
+![pic](../solution_gifs/AHC001_solution.png)
 seed=0, score=956918383

@@ -4,5 +4,5 @@
 - 参加結果: 未参加
 
 ## 実行結果
-![pic](/AtCoder-Heuristic-Contest-Solutions/solution_gifs/AHC032_solution.gif)
+![pic](../solution_gifs/AHC032_solution.gif)
 seed=0, score=76625313223

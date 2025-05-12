@@ -4,5 +4,5 @@
 - 参加結果: 175位 / 985人 (パフォーマンス: 1829)
 
 ## 実行結果
-![pic](/AtCoder-Heuristic-Contest-Solutions/solution_gifs/AHC037_solution.gif)
+![pic](../solution_gifs/AHC037_solution.gif)
 seed=0, score=31953991
